@@ -5,6 +5,8 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.util.ArrayList;
 
+import DAO_Ex.ConnectionPool;
+
 public class Service {
 	 static  ConnectionPool cp =null;
 	 

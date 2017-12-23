@@ -4,6 +4,8 @@ import java.io.*;
 import java.sql.*;
 import java.util.*;
 
+import DAO_Ex.ConnectionPool;
+
 
 public class ScoreEvaluation_Ex2 {
    Connection con = null;
